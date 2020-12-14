@@ -26,10 +26,10 @@ Once all the models are trained, it can be used for Transliteration.
 
 
 **Limitations**
-* Input image should have either english or hindi text, as the model is trained only on those images.
-* Accurecy will improve by bring in more data.
-* Strucure of this repo is little messed up, :sweat_smile: :sweat_smile:
-* Converting curved text on images doesn't work that well, I had worked little to straightening the text using openCV, still working on it.  
+* The input image should have either English or Hindi text, as the model is trained only on those images.
+* Accuracy will improve by bring in more data.
+* The structure of this repo is little messed up, :sweat_smile: :sweat_smile:
+* Converting curved text on images doesn't work that well, I had worked little to straightening the text using OpenCV, still working on it.  
 
 Models - https://drive.google.com/drive/folders/19q-89TjeyaM2d8KbWdjWOjJV1Ow1ARi2?usp=sharing <br>
 Datasets link - 
